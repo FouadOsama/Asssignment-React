@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.str-react
+{
+  background-color: #1ABC9C;
+  
+}
+
+
+.about {
+    background-color: #1ABC9C;
+    
+}
+
+
+/* 
+.input-custom {
+
+} */
+
+
+
+
+.social {
+  background-color: #2C3E50;
+}
+
+
+.social-logo {
+  border: 2px solid white;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+
+.section{
+  min-height: 100vh;
+}
+
+
+.my-nav{
+  background-color: #2C3E50;
+}
